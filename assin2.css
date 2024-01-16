@@ -128,3 +128,13 @@ margin-top: 10px;
     border-radius: 10px;
     margin-top: 10px;
 }
+.review{
+    text-align: center;
+}
+.creview{
+    border: 2px solid tomato;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-left: 250px;
+    margin-right: 150px; 
+}
