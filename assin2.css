@@ -1,0 +1,130 @@
+.banner{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 0;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+.text2{
+    position: absolute;
+    top: 0;
+    margin-left: 550px;
+    margin-top: 170px;   
+}
+.banner img{
+margin-left: 140px;
+}
+.titl{
+    
+    position: absolute;
+    top: 0;
+    margin-left: 660px;
+    margin-top: 120px;
+    
+}
+.bton{
+    position: absolute;
+    top: 0;
+    margin-left: 480px;
+    margin-top: 260px;
+  
+    border-radius: 10px;
+   
+}
+.btn{
+    border-radius: 5px;
+    font-size: 1.8rem;
+    background-color: white;
+    box-shadow: 8px 8px white;
+    color:red;
+}
+.btn1{
+    border-radius: 5px;
+    font-size: 1.8rem;
+    background-color:orangered;
+    box-shadow: 8px 8px white;
+    color: white;
+}
+.popular{
+    font-size: 40px;
+   padding-right: 20px;
+}
+.mbtn{
+    font-size: 2rem;
+    background-color:orangered; 
+    border-radius: 5px;
+    color: white;
+}
+.popular{
+    position: relative;
+    margin-left: 170px;
+    margin-bottom: 20px;
+}
+.ppicture{
+    position: absolute;
+    margin-left: 800px;
+    
+}.para img{
+    margin-right:120px;
+}
+
+.para{
+    display: flex;
+    margin-left: 140px;
+    background-color: white;
+    margin-top: 50px;
+}
+.ull{
+    margin-top: 200px;
+}
+.chose{
+    text-align: center;
+    font-size: 50px;
+}
+.yea{
+    color: tomato;
+}
+.paragraph{
+    text-align: center;
+}
+
+
+.row{
+    display:flex ;
+    
+    margin-bottom: 15px;
+    gap: 15px;
+   
+    
+}
+.cho{
+    text-align: center;
+    font-size: 50px;
+}
+.par{
+    text-align: center;
+}
+.faxo{
+    display: flex;
+}
+.skl{
+margin-left: 255px;
+background-color: antiquewhite;
+border-radius: 10px;
+margin-top: 10px;
+}
+.dkl{
+    margin-left: 260px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.gkl{
+    margin-left: 480px;  
+    background-color: coral;
+    margin-right: 450px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
