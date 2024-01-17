@@ -137,4 +137,58 @@ margin-top: 10px;
     padding-left: 5px;
     margin-left: 250px;
     margin-right: 150px; 
+    background-color: blueviolet;
+}
+.rating img{
+    height: 30px;
+    width: 30px;
+
+}
+.offer{
+    display: flex;
+}
+.offer img{
+    height: 400px;
+    width: 400px;
+    margin-left: 250px;
+    margin-top: 15px;
+    margin-right: 150px;
+}
+.txt{
+    margin-left: 250px;
+    background-color: aquamarine;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+.secin{
+    margin-top: 5px;
+    font-size: 2rem;
+   border-radius: 5px;
+}
+.ppp{
+    margin-top: 5px;
+    font-size: 2rem;
+   border-radius: 5px;
+}
+.mmm{
+    font-size: 2rem;
+    background-color: tomato;
+}
+.right{
+   margin-left: 720px;
+}
+.salon{
+    margin-left: 350px;
+   
+}
+.hjj{
+    text-align: center;
+}
+.ikon{
+    margin-left: 750px;
+    margin-top: 90px;
+}
+.yea{
+    color: red;
 }
