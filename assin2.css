@@ -1,3 +1,15 @@
+nav ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 90px;
+   
+}
+nav li{
+    padding: 8px;
+}
+
+
 .banner{
     position: relative;
 }
@@ -191,4 +203,15 @@ margin-top: 10px;
 }
 .yea{
     color: red;
+}
+
+
+/*responsive*/
+
+@media screen and(max-width:600px) {
+    .banner{
+        flex-direction: column;
+        width: 800px;
+        height: 800px;
+    }
 }
